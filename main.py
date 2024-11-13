@@ -1,5 +1,6 @@
 import pandas as pd
-
+def lala(var1,var2):
+    return
 
 if __name__ == "__main__":
     DF_NAME = "qa_answers.csv"
